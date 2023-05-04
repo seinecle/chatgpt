@@ -1,0 +1,18 @@
+= ChatGPT - in higher education and beyond
+Clément Levallois <levallois@em-lyon.com>
+2023-05-04
+:revnumber: 1.0
+:example-caption!:
+ifndef::imagesdir[:imagesdir: images]
+ifndef::sourcedir[:sourcedir: ../../main/java]
+
+"ChatGPT - in higher education and beyond" is a series of notes on the topic by Clement Levallois, to be used for teaching or else.
+
+Looking for the website where this content is published? There -> https://seinecle.github.io/chatgpt/
+
+Here you will find the "raw", original content material on this topic.  Stay here if you want to ask a question, or submit correctionsand suggestionq. You will need a Github account. Do you have one? Then, "open an issue", which is the way on Github to report a problem, ask a question or just give feedback!
+
+by https://clementlevallois.net[Clément Levallois], Associate Professor at https://www.em-lyon.com[emlyon business school].
+
+## License
+Creative Commons 4.0 with attribution

@@ -1,0 +1,32 @@
+= Sentiment analysis (opinion mining)
+Clément Levallois <analysis@exploreyourdata.com>
+2023-04-07
+
+last modified: {docdate}
+
+:icons: font
+:iconsfont:   font-awesome
+:revnumber: 1.0
+:example-caption!:
+:experimental:
+:imagesdir: images
+
+== Short description
+Sentiment analysis consists in classifying a piece of text as being positive, negative or neutral in sentiment.
+
+== Key steps
+
+- Read the https://arxiv.org/abs/2109.08256[ethics sheet on sentiment analysis]
+- Useful: a https://arxiv.org/abs/2005.11882[review paper on sentiment analysis]
+- Collect texts to analyze! Social media posts, interview transcripts, other type of text?
+
+== Tools for sentiment analysis
+- https://nocodefunctions.com/[Free tool for sentiment analysis] for texts in French, Spanish and English
+
+== To go further
+
+Find other methodology lessons https://seinecle.github.io/methodology/[here].
+
+image:round_portrait_mini_150.png[align="center", role="right"]
+
+This course is designed by https://www.twitter.com/seinecle[Clement Levallois], and check https://nocodefunctions.com[my free web app for data analysis].

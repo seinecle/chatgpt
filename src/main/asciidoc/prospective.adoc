@@ -1,0 +1,29 @@
+= Prospective
+Clément Levallois <analysis@exploreyourdata.com>
+2023-04-07
+
+last modified: {docdate}
+
+:icons: font
+:iconsfont:   font-awesome
+:revnumber: 1.0
+:example-caption!:
+:experimental:
+:imagesdir: images
+
+== definition
+Prospective is a principled approach to identifying possible or plausible futures.
+
+== a class on the topic
+- https://www.coursera.org/learn/introduction-to-futures-thinking[Ready, Set, Future! Introduction to Futures Thinking]
+
+== an academic reference on the topic
+- https://academic.oup.com/book/9616[Strategic Reframing: The Oxford Scenario Planning Approach]
+
+== To go further
+
+Find other methodology lessons https://seinecle.github.io/methodology/[here].
+
+image:round_portrait_mini_150.png[align="center", role="right"]
+
+This course is designed by https://www.twitter.com/seinecle[Clement Levallois], and check https://nocodefunctions.com[my free web app for data analysis].

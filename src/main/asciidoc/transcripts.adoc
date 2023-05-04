@@ -1,0 +1,62 @@
+= How to transcribe interviews
+Clément Levallois <analysis@exploreyourdata.com>
+2023-04-20
+
+last modified: {docdate}
+
+:icons: font
+:iconsfont:   font-awesome
+:revnumber: 1.0
+:example-caption!:
+:experimental:
+:imagesdir: images
+
+== What is a transcript?
+A transcript is the written version of the recording of a speech (monologue, interview, conversation...).
+This implies that __you have properly recorded the interview__ - make sure the recording conditions are good enough! (quiet environment, etc.)
+//+
+Every smartphone has a voice recorder function, just make sure the microphone is not obstructed.
+Make also sure not to forget to launch the recording and to have enough batteries! 
+
+A transcript should be exactly accurate, without any interpretation or modification.
+//+
+Depending on the scientific discipline and goals of the transcript, there are different levels of precision of the transcript, up to to the inclusion of tones, noises and silences.
+
+== Why do you need a transcript
+Analyzing the audio file of what you have recorded is not convenient. A transcript is much easier to scroll, search, and explore. You can easily copy paste interesting fragments in other documents. All these operations relate to **content analysis**, which is detailed https://seinecle.github.io/methodology/generated-html/content_analysis.html[in this fact sheet].
+
+== Tools for transcription
+
+=== 1. "Dictate" function on Microsoft Word Office 365 (*in your browser*).
+To use this tool, your must create a Word document directly in your web browser.
+Visit https://office.com[https://office.com], login and follow the instructions. Then:
+
+//+
+
+1. create a Word document in your browser
+2. click on the microphone icon, then on the speakerphone icon:
+image:transcribe-icon-1-arrows.png[title="transcribe icon"]
+//+
+
+3. Upload your audio file. Video files (mp4 format) are also possible, actually!
+
+4. The file gets automatically transcribed and you can then insert it in the Word document in one click.
+The quality is quite good: punctuation and even different speakers are recognized!
+
+=== 2. Dictate" function on Microsoft Word (the Word *desktop* application).
+To use this tool,
+
+1. create a Word document on your desktop
+2. click on "dictate":
+image:dictate-icon-1.png[title="dictate icon"]
+3. click on the parameters icon and *select the language of the recording*. Many languages are available:
+image:dictate-params-2.png[title="dictate parameters icon", width="200", align="center"]
+
+4. play the audio file with your smartphone, in front of the micro of your laptop. The Word document will automatically write the transcript of the interview.
+
+== To go further
+
+Find other methodology lessons https://seinecle.github.io/methodology/[here].
+image:round_portrait_mini_150.png[align="center", role="right"]
+
+This course is designed by https://www.twitter.com/seinecle[Clement Levallois], and check https://nocodefunctions.com[my free web app for data analysis].

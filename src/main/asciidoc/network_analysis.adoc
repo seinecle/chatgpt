@@ -1,0 +1,65 @@
+= Content analysis
+Clément Levallois <analysis@exploreyourdata.com>
+2023-04-07
+
+last modified: {docdate}
+
+:icons: font
+:iconsfont:   font-awesome
+:revnumber: 1.0
+:example-caption!:
+:experimental:
+:imagesdir: images
+
+== Gephi
+https://gephi.org[Gephi] is a desktop software to visualize and explore networks. With it, you can find insights and produce pictures which highlight those insights. It is free and runs on Mac, PC and Linux. https://gephi.org[Download it here]. To use Gephi, you need to have a network to visualize. https://nocodefunctions.com[Nocodefunctions.com] can help you create these networks.
+
+=== Gephi tutorials
+- video: https://youtu.be/GXtbL8avpik[Introduction to Network Analysis and Visualization]
+- video: https://youtu.be/oV9PkdQyEWY[Gephi - a workflow from A to Z]
+- web pages: https://seinecle.github.io/gephi-tutorials/[Gephi tutorials]
+
+== NodeXL
+https://www.nodexlgraphgallery.org/Pages/Registration.aspx[NodeXL] is based on Excel to produce network visualizations. It runs on Windows only. It is very useful to collect data from the web and create networks to be visualized. To use these pro features, https://www.smrfoundation.org/license/student-user/[a student license at 39$ / year is required]. You can https://www.nodexlgraphgallery.org/Pages/Registration.aspx[download NodeXL here].
+
+=== NodeXL tutorials
+- https://www.smrfoundation.org/nodexl/tutorials/wikipedia-article-article-networks/[NodeXL Pro Tutorial: Wikipedia Article-Article Networks]
+- https://www.smrfoundation.org/nodexl/tutorials/flickr-related-tag-networks/[NodeXL Pro Tutorial: Flickr related tag networks]
+
+and https://www.smrfoundation.org/nodexl/tutorials/[many other tutorials on NodeXL], especially on how to download and analyze Twitter data.
+ 
+== VOSviewer
+https://www.vosviewer.com[VOSviewer] is a free desktop software running on Mac, Windows and Linux. It specializes in visualizing information from scientific publications: word clouds, networks of co-authors, citation networks... It includes several functions to download data from the major publishers of scientific information, without coding. Typically, it is very useful to synthetize a literature review in a visual form.
+
+=== VOSviewer tutorials
+
+- video: https://www.vosviewer.com/getting-started[Getting started]
+
+Check also the latest user manual (in pdf) on the same page
+
+== Tool to create networks
+NodeXL provides functions to create networks from some social media, and VOSviewer helps you create networks from scientific publications.
+If you would like to create and explore networks from other sources of data, you can use https://nocodefunctions.com[nocodefunctions.com]: a web app with a menu of several functions.
+//+
+In https://nocodefunctions.com[nocodefunctions.com], several functions are focused on creating networks (no need to know how to code to use them). The network you obtain can then be imported, explored and visualized in Gephi, NodeXl or VOSviewer.
+
+== Other software
+Other famous software for network analysis include http://mrvar.fdv.uni-lj.si/pajek/[Pajek] for very large networks, https://sites.google.com/site/ucinetsoftware/home?authuser=0[UCINET] for statistical analysis on relatively small networks and https://cytoscape.org/[Cytoscape] which tends to be focused on biological networks.
+
+= Example of academic articles using this methodology
+
+Yu, Y., Moore, M., & Chapman, L. P. (2020). https://doi.org/10.1108/JFMM-03-2020-0053[Social network analysis of an emerging innovation: Direct-to-garment printing technology]. Journal of Fashion Marketing and Management: An International Journal, 25(2), 274–289. https://doi.org/10.1108/JFMM-03-2020-0053
+
+Lamirán-Palomares, J. M., Baviera, T., & Baviera-Puig, A. (2020). https://doi.org/10.3390/socsci9100169[Sports Influencers on Twitter. Analysis and Comparative Study of Track Cycling World Cups 2016 and 2018]. Social Sciences, 9(10), Article 10. https://doi.org/10.3390/socsci9100169
+
+Birkinbine, B. J., & Gómez, R. (2020). https://doi.org/10.1177/0163443720902907[New methods for mapping media concentration: Network analysis of joint ventures among firms]. Media, Culture & Society, 42(7–8), 1078–1094. https://doi.org/10.1177/0163443720902907
+
+Cavalcante, W. Q. de F., Coelho, A., & Bairrada, C. M. (2021). https://doi.org/10.3390/su13094987[Sustainability and Tourism Marketing: A Bibliometric Analysis of Publications between 1997 and 2020 Using VOSviewer Software]. Sustainability, 13(9), Article 9. https://doi.org/10.3390/su13094987
+
+== To go further
+
+Find other methodology lessons https://seinecle.github.io/methodology/[here].
+
+image:round_portrait_mini_150.png[align="center", role="right"]
+
+This course is designed by https://www.twitter.com/seinecle[Clement Levallois], and check https://nocodefunctions.com[my free web app for data analysis].
