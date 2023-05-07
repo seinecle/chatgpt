@@ -1,0 +1,64 @@
+= Useful online resources on ChatGPT and related tools
+Clément Levallois <analysis@exploreyourdata.com>
+2023-05-04
+
+last modified: {docdate}
+
+:icons: font
+:iconsfont:   font-awesome
+:revnumber: 1.0
+:example-caption!:
+:experimental:
+:imagesdir: images
+
+== First links before synthesis
+As the subject is quite daunting, I start here with links as they derive from my train of thoughts, **without much structure**. I will organize them later.
+
+=== Detrimental societal consequences of LLMs
+
+https://twitter.com/LisaCullen/status/1653430642183659521?s=20[2023-05-02]: Twitter thread by Lisa Takeuchi Cullen on studios adopting AI to write scripts and more 
+
+https://time.com/6275995/chatgpt-facebook-african-workers-union/[2023-05-01]: 150 African Workers for ChatGPT, TikTok and Facebook Vote to Unionize at Landmark Nairobi Meeting
+
+=== Professors using ChatGPT in class
+
+https://twitter.com/eayers0/status/1654097968188780545[2023-05-04]: Elaine Ayers, professor of history of science at NY University, summarizing her semester's class with generated images.
+
+=== Banning ChatGPT at school? Actually, a consensus for allowing ChatGPT.
+
+In the following links, the separating line seems about the need for the students to reference their use of ChatGPT or not.
+
+//+
+https://www.topmba.com/business-schools/mba-program/chatgpt-adaptive-learning-how-can-ai-technology-enhance-your-business-school-education[2023-05-04] (**allowed**):
+
+Alain Goudey, Vice-Dean at NEOMA Business School (France), in an interview with the MBA branch of QS, which is a prominent publisher of rankings in higher education:
+
+> “Banning ChatGPT is not feasible,” says Goudey. “AI is going to be integrated into every technological tool we use every day, like Office 365, mobile phones and search engines. Even if you wanted to, it’s not possible to ban it.” 
+
+//+
+Haithem Marzouki, Director of innovative learning at NEOMA:
+
+> “We can’t say not to use ChatGPT in your learning if you will then be spending 20 or 30 percent of your time using it in your internship, or in your job” 
+
+
+//+
+https://nyunews.com/opinion/2023/02/27/chatgpt-more-than-cheating/[2023-02-27] (**allowed**): Opinion [of NYU student]: ChatGPT has untapped potential for use in the classroom
+
+//+
+https://newsroom.sciencespo.fr/sciences-po-bans-the-use-of-chatgpt/[2023-01-27] (**do not ban but needs referencing**): Sciences Po (Paris higher-ed private university) bans the use of ChatGPT without transparent referencing:
+
+> Without transparent referencing, students are forbidden to use the software for the production of any written work or presentations, except for specific course purposes, with the supervision of a course leader. The sanctions for use of the software may go as far as exclusion from the institution, or even from French higher education as a whole.
+
+//+
+https://www.vice.com/en/article/n7zxe7/nyu-professors-tell-their-students-do-not-use-chatgpt[2023-01-26] (**do not ban, use needs to be acknowledged, but still unclear**): NYU Professors Tell Their Students: Do Not Use ChatGPT
+
+Jenni Quilter, the Executive Director of the Expository Writing Program and the Assistant Vice Dean of General Education in the College of Arts and Sciences at NYU:
+
+> “The situation has already come up—we had instances of students using ChatGPT in December,” Quilter said. “The repercussions for using ChatGPT without acknowledgment are the same as they would be for any case of academic plagiarism, and range from redoing the assignment to grade deductions and a report lodged with the Dean of that student's college.”
+
+== To go further
+
+Find other resources on ChatGPT and generate models https://seinecle.github.io/chatgpt[here].
+image:round_portrait_mini_150.png[align="center", role="right"]
+
+This course is designed by https://www.twitter.com/seinecle[Clement Levallois], and check https://nocodefunctions.com[my free web app for data analysis].

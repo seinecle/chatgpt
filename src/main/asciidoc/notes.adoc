@@ -1,0 +1,32 @@
+= Notes on ChatGPT in the classroom
+Clément Levallois <analysis@exploreyourdata.com>
+2023-05-04
+
+last modified: {docdate}
+
+:icons: font
+:iconsfont:   font-awesome
+:revnumber: 1.0
+:example-caption!:
+:experimental:
+:imagesdir: images
+
+== First notes before synthesis
+As the subject is quite daunting, I start here with notes as they derive from my train of thoughts, **without much structure**. I will organize them later.
+
+
+=== In the classroom
+My premise is that ChatGPT et al. are set to become technologies as pervasive as the Internet, emails and the web are today.
+
+Does it follow that ChatGPT should be introduced in the classroom? After all, students don't do emails in class and that probably is as it should be.
+
+
+
+
+== To go further
+
+Find other resources on ChatGPT and generate models https://seinecle.github.io/chatgpt[here].
+
+image:round_portrait_mini_150.png[align="center", role="right"]
+
+This course is designed by https://www.twitter.com/seinecle[Clement Levallois], and check https://nocodefunctions.com[my free web app for data analysis].

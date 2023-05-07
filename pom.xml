@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.clementlevallois</groupId>
-    <artifactId>methodology-source</artifactId>
+    <artifactId>chatgpt-source</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
-    <name>methodology-source</name>
+    <name>chatgpt-source</name>
 
 
     <!--Everything below this line can be copied / pasted to create the POM of new tutorial / Asciidoc projects !! -->
