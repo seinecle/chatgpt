@@ -444,11 +444,26 @@ header {
 
 #main_content {
   padding-top: 40px;
+  margin-bottom: 10px;
 }
 
 #main_content.inner {
   background-color: #fff;
-  padding: 70px 100px;
+  padding: 70px 70px;
+  box-shadow: 0 0 5px #ebebeb;
+  -webkit-box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
+  -o-box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
+  -ms-box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
+}
+
+#key_people {
+  padding-top: 20px;
+}
+
+#key_people.inner {
+  background-color: #fff;
+  padding: 70px 70px;
   box-shadow: 0 0 5px #ebebeb;
   -webkit-box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
   -moz-box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
