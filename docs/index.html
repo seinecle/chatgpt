@@ -27,6 +27,31 @@
                 margin-top: 0.5em;
                 display: block;
             }
+            .libutton-container {
+                height: 100%;
+                padding: 0;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            .libutton {
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                padding: 7px;
+                text-align: center;
+                outline: none;
+                text-decoration: none !important;
+                color: #ffffff !important;
+                width: 200px;
+                height: 32px;
+                border-radius: 16px;
+                background-color: #0A66C2;
+                font-family: "SF Pro Text", Helvetica, sans-serif;
+            }
         </style>
     </head>
     <body>
@@ -826,6 +851,22 @@
                         <div class="col-12 sm:col-12 md:col-6 lg:col-4 link-card text-center">
                             <div class="p-3 m-3 bg-blue-100">
                                 <p>
+                                    <a href="https://ai.wharton.upenn.edu/" target="_blank">
+                                        <img src="https://media.licdn.com/dms/image/D4E03AQEBkej6uCCnpw/profile-displayphoto-shrink_400_400/0/1689340753734?e=1707350400&v=beta&t=_1kZWf7ENNWWPNgDGn8LktRI0wv4dQ4NBPTsR9e95hE" alt="Stefano Puntoni" style="border-radius: 50%;"/>
+                                    </a>
+                                </p>
+                                <p style="font-weight: bold;">
+                                    Stefano Puntoni
+                                </p>
+                                <p>
+                                    Professor and behavioral scientist, talks about #decisionmaking, #brandmanagement, #behavioralscience, and AI
+                                    <a href="https://www.linkedin.com/in/stefano-puntoni-7117908/recent-activity/all/" target="_blank">💻</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-12 sm:col-12 md:col-6 lg:col-4 link-card text-center">
+                            <div class="p-3 m-3 bg-blue-100">
+                                <p>
                                     <a href="https://www.linkedin.com/in/bindureddy/" target="_blank">
                                         <img src="https://pbs.twimg.com/profile_images/1443737943684763651/32WHA-kg_400x400.jpg" alt="Bindu Reddy" style="border-radius: 50%;"/>
                                     </a>
@@ -1064,14 +1105,19 @@
         <!-- FOOTER -->
         <div id="footer_wrap" class="outer">
             <footer class="inner text-center">
-                <p>'Ai for professionals' - maintained by Clément Levallois. Find me on
-                    <a href="https://www.linkedin.com/in/levallois/"><i class="fa-brands fa-linkedin"></i></a>
+                <p>'Ai for professionals' - maintained by Clément Levallois.</p>
+                <div class="libutton-container">
+                    <p>
+                        <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=levallois" target="_blank">Follow on LinkedIn</a>
+                    </p>
+                </div>
+                <p>Or find me on
                     <a href="https://github.com/seinecle"><i class="fa-brands fa-github-square"></i></a>
                     <a href="https://scholar.google.com/citations?user=r0R0vekAAAAJ&hl=fr"><i class="fa-brands fa-google-scholar"></i></a>
                     <a href="https://ioc.exchange/@seinecle"><i class="fa-brands fa-mastodon"></i></a>
                     <a href="https://twitter.com/seinecle"><i class="fa-brands fa-x"></i></a>
                 </p>
-                <p>All content authored by Clement Levallois is licensed CC BY 4.0: free to share and re-use, including in commercial settings as long as you give the appropriate credit.</p>
+                <p>All content authored by Clement Levallois is licensed CC BY 4.0: free to share and re-use, including in commercial settings as long as you give the appropriate credit. Cited or linked content subject to their respective licenses.</p>
                 <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
             </footer>
         </div>
